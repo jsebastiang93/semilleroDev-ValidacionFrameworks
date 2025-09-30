@@ -1,0 +1,1 @@
+// Este archivo puede ser utilizado para definir tipos o interfaces, aunque en JavaScript puro no es necesario. Puede contener definiciones de tipos si se decide usar JSDoc.
